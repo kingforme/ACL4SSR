@@ -65,9 +65,6 @@ payload:
   - DOMAIN-SUFFIX,uservoice.com
   - DOMAIN-SUFFIX,virtualearth.net
   - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,windows-ppe.net
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windowsazure.com
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,wunderlist.com
@@ -88,7 +85,6 @@ payload:
   - DOMAIN-SUFFIX,codecguide.com #其他
   - DOMAIN-SUFFIX,meiju996.com
   - DOMAIN-SUFFIX,hey08.cjkypo.com
-  - DOMAIN-SUFFIX,ypojie.com
   - DOMAIN-SUFFIX,iobit.com
   - DOMAIN-SUFFIX,adguard.org
   - DOMAIN-SUFFIX,whatsmydns.net 
@@ -96,8 +92,3 @@ payload:
   - DOMAIN-SUFFIX,bt.sy
   - DOMAIN-SUFFIX,safeavenue-tp.sp.f-secure.com
   - DOMAIN-SUFFIX,deepl.com
-  - DOMAIN,downloads.upd.kaspersky.com
-  - DOMAIN,ds.kaspersky.com
-  - DOMAIN,dc1-st.ksn.kaspersky-labs.com
-  - DOMAIN,services.ucp.kaspersky-labs.com
-  - DOMAIN,touch.kaspersky.com
