@@ -1,3 +1,4 @@
 payload:
-  - DOMAIN,local.adguard.org
-  - DOMAIN-SUFFIX,mcdn.bilivideo.cn
+  - local.adguard.org'
+  - DOMAIN-SUFFIX.mcdn.bilivideo.cn'
+  - DOMAIN-KEYWORD,data.bilibili.com
